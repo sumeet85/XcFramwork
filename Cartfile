@@ -1,0 +1,31 @@
+### Internal
+
+### 3rd Party
+
+github "Alamofire/AlamofireImage" == 4.1.0
+github "Mastercard-Gateway/gateway-ios-sdk"
+github "rechsteiner/Parchment" ~> 3.0.1
+github "WenchaoD/FSCalendar"
+github "onevcat/Kingfisher" ~> 5.15.6
+github "hackiftekhar/IQKeyboardManager" ~> 6.4.2
+github "danielgindi/Charts" ~> 3.2.2
+github "airbnb/lottie-ios" "master"
+github "adjust/ios_sdk"
+github "jrendel/SwiftKeychainWrapper"
+github "hyperoslo/Cache"
+
+
+### Binaries
+
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseDynamicLinksBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseInAppMessagingBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseMessagingBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebasePerformanceBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseRemoteConfigBinary.json"
+
+
+
+binary "https://dl.google.com/geosdk/GoogleMaps.json" == 4.2.0
+binary "https://dl.google.com/geosdk/GooglePlaces.json" == 4.2.0

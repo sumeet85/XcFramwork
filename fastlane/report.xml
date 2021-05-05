@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="00: default_platform" time="0.000344">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="01: xcversion" time="0.341208">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="02: carthage" time="16.148635">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="03: carthage" time="622.515714">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="04: ./convert.sh FIRAnalyticsConnector" time="0.872736">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="05: ./convert.sh Firebase" time="0.805698">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="06: ./convert.sh FirebaseABTesting" time="0.820968">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="07: ./convert.sh FirebaseAnalytics" time="0.8148">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="08: ./convert.sh FirebaseCore" time="0.844443">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="09: ./convert.sh FirebaseCoreDiagnostics" time="0.864507">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="10: ./convert.sh FirebaseCrashlytics" time="0.869612">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="11: ./convert.sh FirebaseDynamicLinks" time="0.83974">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="12: ./convert.sh FirebaseInAppMessaging" time="0.892407">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="13: ./convert.sh FirebaseInstallations" time="0.844763">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="14: ./convert.sh FirebaseInstanceID" time="0.850739">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="15: ./convert.sh FirebaseMessaging" time="0.908834">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="16: ./convert.sh FirebasePerformance" time="0.873216">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="17: ./convert.sh FirebaseRemoteConfig" time="0.848034">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="18: ./convert.sh GoogleAppMeasurement" time="1.069338">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="19: ./convert.sh GoogleDataTransport" time="0.855373">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="20: ./convert.sh GoogleMaps" time="1.811065">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="21: ./convert.sh GoogleMapsBase" time="1.276798">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="22: ./convert.sh GoogleMapsCore" time="2.061627">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="23: ./convert.sh GoogleMapsM4B" time="0.84789">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="24: ./convert.sh GooglePlaces" time="1.282297">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="25: ./convert.sh GoogleUtilities" time="0.847698">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="26: ./convert.sh PromisesObjC" time="0.884502">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="27: ./convert.sh Protobuf" time="0.992577">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="28: ./convert.sh nanopb" time="0.842105">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="29: zip" time="0.353358">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="30: zip" time="0.328693">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="31: zip" time="0.362104">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="32: zip" time="2.953474">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="33: zip" time="0.882476">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="34: zip" time="0.611933">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="35: zip" time="3.732612">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="36: zip" time="0.019614">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="37: zip" time="0.521545">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="38: zip" time="0.006608">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="39: zip" time="0.021027">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="40: zip" time="0.021148">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="41: zip" time="0.055673">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="42: zip" time="0.014292">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="43: zip" time="0.162993">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="44: zip" time="0.055729">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="45: zip" time="0.155428">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="46: zip" time="0.056748">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="47: zip" time="0.080074">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="48: zip" time="0.129714">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="49: zip" time="0.137904">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="50: zip" time="0.06585">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="51: zip" time="0.631512">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="52: zip" time="0.081589">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="53: zip" time="0.946136">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="54: zip" time="0.885168">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="55: zip" time="2.403399">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="56: zip" time="0.008032">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="57: zip" time="0.175267">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="58: zip" time="0.077385">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="59: zip" time="0.423059">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="60: zip" time="0.953546">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="61: zip" time="2.492416">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="62: zip" time="0.297297">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="63: zip" time="2.37694">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="64: zip" time="0.655899">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="65: zip" time="1.297715">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="66: zip" time="0.042563">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="67: zip" time="0.175277">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="68: zip" time="0.415971">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="69: zip" time="0.013619">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="70: erb" time="0.002808">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="71: git_commit" time="0.035693">
+        
+          <failure message="/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/actions/actions_helper.rb:67:in `execute_action'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:255:in `block in execute_action'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:229:in `chdir'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:229:in `execute_action'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:157:in `trigger_action_by_name'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/fast_file.rb:159:in `method_missing'&#10;Fastfile:70:in `block (2 levels) in parsing_binding'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/lane.rb:33:in `call'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:49:in `block in execute'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:45:in `chdir'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/runner.rb:45:in `execute'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/lane_manager.rb:47:in `cruise_lane'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/command_line_handler.rb:36:in `handle'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/commands_generator.rb:108:in `block (2 levels) in run'&#10;/Library/Ruby/Gems/2.6.0/gems/commander-fastlane-4.4.6/lib/commander/command.rb:178:in `call'&#10;/Library/Ruby/Gems/2.6.0/gems/commander-fastlane-4.4.6/lib/commander/command.rb:153:in `run'&#10;/Library/Ruby/Gems/2.6.0/gems/commander-fastlane-4.4.6/lib/commander/runner.rb:476:in `run_active_command'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane_core/lib/fastlane_core/ui/fastlane_runner.rb:76:in `run!'&#10;/Library/Ruby/Gems/2.6.0/gems/commander-fastlane-4.4.6/lib/commander/delegates.rb:15:in `run!'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/commands_generator.rb:352:in `run'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/commands_generator.rb:41:in `start'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/fastlane/lib/fastlane/cli_tools_distributor.rb:122:in `take_off'&#10;/Library/Ruby/Gems/2.6.0/gems/fastlane-2.181.0/bin/fastlane:23:in `&lt;top (required)&gt;'&#10;/usr/local/bin/fastlane:23:in `load'&#10;/usr/local/bin/fastlane:23:in `&lt;main&gt;'&#10;&#10;Exit status of command 'git commit -m Update\ dependencies\ 1.0.0 Package.swift' was 1 instead of 0.&#10;error: pathspec 'Package.swift' did not match any file(s) known to git&#10;" />
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
