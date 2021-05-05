@@ -223,248 +223,248 @@ let package = Package(
         
             .binaryTarget(
                 name: "AdjustSdk",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/AdjustSdk.xcframework.zip",
-                checksum: "440f7bae55d09364c92c94488f53306a00f241b745881906cc0201d9b0fcd923"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/AdjustSdk.xcframework.zip",
+                checksum: "d41c9567f8a413e865abcbaf0501c8e8465ea5d7ed48302d153185445a94e801"           
             ),
         
             .binaryTarget(
                 name: "AdjustSdkIm",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/AdjustSdkIm.xcframework.zip",
-                checksum: "a404ff46d301ac41ea56ec84c1f5769f916bec2e4982e41c72b17c227d1446e7"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/AdjustSdkIm.xcframework.zip",
+                checksum: "0e5c6d6941a6eca6923c96d4b42483236ddbc811df4bb52f8ab5e910f280db40"           
             ),
         
             .binaryTarget(
                 name: "AdjustSdkWebBridge",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/AdjustSdkWebBridge.xcframework.zip",
-                checksum: "2bda836e818eb24e40c01ee815b318cfbe6d3102accd381cb6878e29d73f2add"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/AdjustSdkWebBridge.xcframework.zip",
+                checksum: "4463fca5d69cad3a13f98c587028b5a5c916e1f4229dc4849fa5ce4f01a8640c"           
             ),
         
             .binaryTarget(
                 name: "Alamofire",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Alamofire.xcframework.zip",
-                checksum: "9bdba57688a1318ab23cfe6c8025d5ad921b4c08117955ec52a980ceeddbc7e5"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Alamofire.xcframework.zip",
+                checksum: "4f7259545c12fe000c1abdca3065bf866494793da6312655e57a96db1d836a58"           
             ),
         
             .binaryTarget(
                 name: "AlamofireImage",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/AlamofireImage.xcframework.zip",
-                checksum: "e33d8c2c59244ea9732970bb5d87374e4d0899b1d4201b814ca4c9b87699f2a9"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/AlamofireImage.xcframework.zip",
+                checksum: "1764ffdf3863855a32740a09825c84f3acb679bd1adc0cb915dd2d308a3a6afe"           
             ),
         
             .binaryTarget(
                 name: "Cache",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Cache.xcframework.zip",
-                checksum: "73b8df95ad9d31f1f4ff9aa7faa6336b207843195b2ed500858c4526d165e642"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Cache.xcframework.zip",
+                checksum: "60261c1cdb09ade8680d1d9709a81bdfe26f22f62551dea0c125591c114fbcb6"           
             ),
         
             .binaryTarget(
                 name: "Charts",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Charts.xcframework.zip",
-                checksum: "17bb2ccd04e815551e6a2571a1b4b5aade760fdf9a692da0e6a58fca4b9d36d7"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Charts.xcframework.zip",
+                checksum: "f658658b3f6f339ac7f1c89ba99245955bce3495b1e3a5939783de04c5c835a2"           
             ),
         
             .binaryTarget(
                 name: "FIRAnalyticsConnector",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FIRAnalyticsConnector.xcframework.zip",
-                checksum: "893e11d4dfff33f7b67a9fe32725e4e1095b643d463814d2d9cc3859e69ada8b"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FIRAnalyticsConnector.xcframework.zip",
+                checksum: "6d87c2276af1b0600bc57b639b7febca3ef3d7f1887a76aa1a8d5c32e6791adf"           
             ),
         
             .binaryTarget(
                 name: "FSCalendar",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FSCalendar.xcframework.zip",
-                checksum: "5d5a502d2569e36fc2b2e9caf917e294373b67a8c8b58990839874c19492ab67"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FSCalendar.xcframework.zip",
+                checksum: "58dd1d2ff57175a3d32c1f94b517be66513e154885ee8cd77da0e6abe8eac642"           
             ),
         
             .binaryTarget(
                 name: "Firebase",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Firebase.xcframework.zip",
-                checksum: "ceb06b855027bf6a9d15e9618ae9f8cc4d8e9341cf45d62d21ec97d6c2a40e2d"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Firebase.xcframework.zip",
+                checksum: "e9db1e5e90f843c1f427b2e4e25a06904bdd9a3aa742e38cb11d7548747655ee"           
             ),
         
             .binaryTarget(
                 name: "FirebaseABTesting",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseABTesting.xcframework.zip",
-                checksum: "3d08613e42a395ec06decaf2b1a0c5ac83651001a34f05c734b8b11af9c70f7a"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseABTesting.xcframework.zip",
+                checksum: "49df53b3bdbda525ea1376b514e39b74c0598f73f7d026269c93038de45d64a9"           
             ),
         
             .binaryTarget(
                 name: "FirebaseAnalytics",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseAnalytics.xcframework.zip",
-                checksum: "d101bc5364e170fd267ab5fc34c49fd683fb1a4eef1077c6362caa51f10bbbd6"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseAnalytics.xcframework.zip",
+                checksum: "c1fc41151d0f0c9c44a6ed7a43badefeee58f3b6ee1375d01276a919faf2d486"           
             ),
         
             .binaryTarget(
                 name: "FirebaseCore",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseCore.xcframework.zip",
-                checksum: "d4cce52597e86e038889c7d14c2439dd0788209c01717d2f19a5e2dff86ce082"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseCore.xcframework.zip",
+                checksum: "7a114efdb476b2cafb0035258250b60ce92ec545950e805bd354bd4f375207a5"           
             ),
         
             .binaryTarget(
                 name: "FirebaseCoreDiagnostics",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseCoreDiagnostics.xcframework.zip",
-                checksum: "3b2e30bb8e6fd3bfbacb493cb053dbcf1111f3522c7a0a25e188afe7801b83ad"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseCoreDiagnostics.xcframework.zip",
+                checksum: "10e52d66538418f6f35ed4260da4a5ddced2ba16c3056f7901c42135a53f2f98"           
             ),
         
             .binaryTarget(
                 name: "FirebaseCrashlytics",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseCrashlytics.xcframework.zip",
-                checksum: "2c82d927ce4fd64d5ee149b3d0159483bbf99d52cc67e1641b65347e1a493ac4"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseCrashlytics.xcframework.zip",
+                checksum: "0d473e69f49765a6ac3c2e4781595ff7c9d0d32b9c2302f5557d60f306467423"           
             ),
         
             .binaryTarget(
                 name: "FirebaseDynamicLinks",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseDynamicLinks.xcframework.zip",
-                checksum: "726b435fc7bf82670ec1a38e1af51208889e6a3b2ff0872b8070ac9186874516"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseDynamicLinks.xcframework.zip",
+                checksum: "dd7b4d02b01ac6ae9f619868ce728a389b4c0f1f457ccf3d6706d8bfaf5e6993"           
             ),
         
             .binaryTarget(
                 name: "FirebaseInAppMessaging",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseInAppMessaging.xcframework.zip",
-                checksum: "d2f8bb1fe01c92c83b3d4c06078a07afbf2851cb88293838f8ed37164894d1a8"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseInAppMessaging.xcframework.zip",
+                checksum: "08230a6bb0f051d24d76911e72c176fdd9052b3cf6e326042da3a2acb1e49d2c"           
             ),
         
             .binaryTarget(
                 name: "FirebaseInstallations",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseInstallations.xcframework.zip",
-                checksum: "ea8ee76db409ce47616dca60cd3bc05614c073ca8bb588fe5873a1404abae779"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseInstallations.xcframework.zip",
+                checksum: "29c3eb687d907580a1bbd0aa23362eeb279f93efcd3111e622bcfa6e6e28412e"           
             ),
         
             .binaryTarget(
                 name: "FirebaseInstanceID",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseInstanceID.xcframework.zip",
-                checksum: "d604de7478a1b2ed3f1936adca2ab0e43251bfb8f48828df3a3a38f875a3aac4"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseInstanceID.xcframework.zip",
+                checksum: "0c609447ac834b2d9d6805ba64196edcdb3293a5886174dcebe55bea6d6bb6d0"           
             ),
         
             .binaryTarget(
                 name: "FirebaseMessaging",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseMessaging.xcframework.zip",
-                checksum: "6584737b4ee4e7090ef3bf03a34c55a3740eeff1391bb2ef27511d86133e558e"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseMessaging.xcframework.zip",
+                checksum: "d1992f6c47b3d573201f18a94c69b38a2a46b7e07d8c9c085c39d2f4d23c98f6"           
             ),
         
             .binaryTarget(
                 name: "FirebasePerformance",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebasePerformance.xcframework.zip",
-                checksum: "6852bbad20dcf9dd60fe3be5142a0754dc0fe7bb8cce84f96e54a798b4ee602b"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebasePerformance.xcframework.zip",
+                checksum: "16336d748df29bab3e9ec84c5d8012261dc423bb0198f661a8909478556e125c"           
             ),
         
             .binaryTarget(
                 name: "FirebaseRemoteConfig",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/FirebaseRemoteConfig.xcframework.zip",
-                checksum: "3afd6fdb8e9a6a395426ec3cadbe4fc486dbac81ebacbed5abce1e32d924c2f6"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/FirebaseRemoteConfig.xcframework.zip",
+                checksum: "e50ebe77bc2cf3ccf086f88ea094b7d72ae32d74801a3a7b86861155d7d0c40b"           
             ),
         
             .binaryTarget(
                 name: "GoogleAppMeasurement",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleAppMeasurement.xcframework.zip",
-                checksum: "25a0bb60bd59429a7773ac9fb965694dbeacf525ecba22377b568c5b803cc1fc"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleAppMeasurement.xcframework.zip",
+                checksum: "370a13a9d07d9ecf7c3660cf189ed111abb5a2b8af9cad959673ccbbed6a4b37"           
             ),
         
             .binaryTarget(
                 name: "GoogleDataTransport",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleDataTransport.xcframework.zip",
-                checksum: "59fc69ca1b6d24a1795db35157740d902418aa280efcdb27519f7b63887d6ed8"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleDataTransport.xcframework.zip",
+                checksum: "fc85614fae73384408860866f524422e3aae82f9a35ea35e0e62c228101dd3f9"           
             ),
         
             .binaryTarget(
                 name: "GoogleMaps",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleMaps.xcframework.zip",
-                checksum: "d00891f3a2688923e16296f83c4ec182c17156e42c672b6e8b43b24a84a06617"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleMaps.xcframework.zip",
+                checksum: "03b780e635ea3405325ea77ef7deb695025fb2b279c0e174e290447e2c3b11bf"           
             ),
         
             .binaryTarget(
                 name: "GoogleMapsBase",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleMapsBase.xcframework.zip",
-                checksum: "dcd8a3682ffad8bcabb05bf2d48d4bfe60543153f2061890d8c868d87f35d9ee"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleMapsBase.xcframework.zip",
+                checksum: "1682b4371829bd25a734231655042c162935856dcbb8392c0962920051506fb3"           
             ),
         
             .binaryTarget(
                 name: "GoogleMapsCore",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleMapsCore.xcframework.zip",
-                checksum: "d6b50c52b1ffcdd3b0d5750da0cba2f98c4715dacbf87b2bc1b4bb2c514e62c3"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleMapsCore.xcframework.zip",
+                checksum: "8e3f29a95d8e24d854768c58dbfd6b5f7a5fee7ccd12ee0cd0823094e5ab5a5b"           
             ),
         
             .binaryTarget(
                 name: "GoogleMapsM4B",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleMapsM4B.xcframework.zip",
-                checksum: "f32795d551967f2b0cdde4318e4cd5bee429880a47e3ac60124c0cd6163c816d"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleMapsM4B.xcframework.zip",
+                checksum: "e9b2e6a8ec2bf602a28e012f93c084da6d9d6a00bf0ac1735a69d7e00cb98961"           
             ),
         
             .binaryTarget(
                 name: "GooglePlaces",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GooglePlaces.xcframework.zip",
-                checksum: "91bae74edb766aba11ee57e2b7437d9336f8b04d132611752f2de383bf1643cd"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GooglePlaces.xcframework.zip",
+                checksum: "9b1d6bd804eaf40f7030822c3c67fec51f8413d96ee59ab2f1560a5f52229d45"           
             ),
         
             .binaryTarget(
                 name: "GoogleUtilities",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/GoogleUtilities.xcframework.zip",
-                checksum: "4b6b8dbc66c47319aa4a18ff95f0bd62248dd5641d00224660a17f8328490986"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/GoogleUtilities.xcframework.zip",
+                checksum: "8b3a7e5be3f24cc021351fa1b1cb03a6407b9f59f0d4d2f12a6e0f58d80d0867"           
             ),
         
             .binaryTarget(
                 name: "IQKeyboardManager",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/IQKeyboardManager.xcframework.zip",
-                checksum: "aaa5dfc07768c73d6b6aa96148b2dca5046be80f38521b3038a3d7daedb61199"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/IQKeyboardManager.xcframework.zip",
+                checksum: "d6edae12d5572da27668356049323bbf3e7b252ae1ef3234cf40058e473186ef"           
             ),
         
             .binaryTarget(
                 name: "IQKeyboardManagerSwift",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/IQKeyboardManagerSwift.xcframework.zip",
-                checksum: "75840b4ade2f0f05d28642a3df39eb3ddf5105d5df994a0698eba2a6204a508d"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/IQKeyboardManagerSwift.xcframework.zip",
+                checksum: "97d0fd7e85a6829573f6900089f56f91227b2cc574f664553b68d4eff617747d"           
             ),
         
             .binaryTarget(
                 name: "Kingfisher",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Kingfisher.xcframework.zip",
-                checksum: "4fc861eaa3cf9c27c347d523d060cdc69fb0ce3781419005a034928c0d4d5615"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Kingfisher.xcframework.zip",
+                checksum: "9f430eb60bd5dc0d0291fc7b2ecf87cae1fd5bd654ed5ba4b44781734be03fc9"           
             ),
         
             .binaryTarget(
                 name: "KingfisherSwiftUI",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/KingfisherSwiftUI.xcframework.zip",
-                checksum: "a44b3eccfd2be4732a7b8b7a3a4edf18b0989b2345bfafc3d8560926d2ef1e4f"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/KingfisherSwiftUI.xcframework.zip",
+                checksum: "3f87cc5b8b4b4c4888d81f985a49831de187ce272a5b5bffe9a75c4fde563b16"           
             ),
         
             .binaryTarget(
                 name: "Lottie",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Lottie.xcframework.zip",
-                checksum: "e80ff3ba30fb45fbf73c5e99246a979324994c45081d61db8926abeae28f4b68"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Lottie.xcframework.zip",
+                checksum: "977848e50b1c5112b2c10a53c247d891b846e7ba7c806b1eebe2d4205f302aaa"           
             ),
         
             .binaryTarget(
                 name: "MPGSDK",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/MPGSDK.xcframework.zip",
-                checksum: "50a5168bfe847862072630dfb0be3e869d1a8e1334fa57d8aa8e31dbe9e3692e"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/MPGSDK.xcframework.zip",
+                checksum: "d0250fbaad51440b1a7c6a7706046fb54f053a7c91d90d57f40cf6956ea0ab94"           
             ),
         
             .binaryTarget(
                 name: "Parchment",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Parchment.xcframework.zip",
-                checksum: "e627c9cd8cac3d009f62721196cf599a99622b84a89632850ffea7c88cf85a72"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Parchment.xcframework.zip",
+                checksum: "e1550b7e7087b699f8414251f3813695672fa5414976f178492be3291482a0b0"           
             ),
         
             .binaryTarget(
                 name: "PromisesObjC",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/PromisesObjC.xcframework.zip",
-                checksum: "597a98064f2b5a1411bca8be70878f624b848cb43b79046171f8cdbdc4925d9a"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/PromisesObjC.xcframework.zip",
+                checksum: "f3adb396ee19a8206980988bce13adfc42fa94ec8bbaf11f2a997ee90e01ca1f"           
             ),
         
             .binaryTarget(
                 name: "Protobuf",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/Protobuf.xcframework.zip",
-                checksum: "a2d628d2491ce52077241197a0861b2a38c7b71ed4f4878cfb6069408e734944"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/Protobuf.xcframework.zip",
+                checksum: "8c549cc6b652d2520156d41da9a3ec62f71e9e0d7a5bac9d873565a5e534d6bc"           
             ),
         
             .binaryTarget(
                 name: "SwiftKeychainWrapper",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/SwiftKeychainWrapper.xcframework.zip",
-                checksum: "d354d808f1caf80286bc27bddeb476df2a889c48bb8bbe7fff43d1eba9b297f4"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/SwiftKeychainWrapper.xcframework.zip",
+                checksum: "a3297716cc419e061c27b5880b9d6f5d9938d2ec602de2630fa5270133605b3f"           
             ),
         
             .binaryTarget(
                 name: "nanopb",
-                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.0/nanopb.xcframework.zip",
-                checksum: "cb6d2a97726f836e05a3c152566083dd655e8e48e146ba88642896e7a39acc73"           
+                url: "https://github.com/sumeet85/XcFramwork/releases/download/1.0.1/nanopb.xcframework.zip",
+                checksum: "5a852a46d07d7484f3c9afef984da2e2ed5f0655331bc93bb5123d7a1432893e"           
             ),
         
     ]
